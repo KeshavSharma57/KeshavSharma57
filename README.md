@@ -8,7 +8,7 @@ Mathematics & Computing undergrad at RGIPT | ML & AI Enthusiast | Competitive Pr
 - **Other:** Data Structures & Algorithms, Competitive Programming
 
 ## 🚀 Projects
-- Coming soon...
+- 🔨 Currently building: DSA solutions in C++ and my first ML project
 
 ## 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/keshav-sharma-b9a120384)
